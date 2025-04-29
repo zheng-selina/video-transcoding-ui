@@ -2,7 +2,7 @@
 
 export default function NavBar() {
   return (
-    <nav className="p-4">
+    <nav className="p-4 bg-neutral-900 shadow-md">
       <div className="flex items-center justify-between max-w-screen-xl mx-auto">
         <div className="text-white font-bold text-lg">
           <a href="/">Transcodify</a>
